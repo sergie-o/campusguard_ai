@@ -18,7 +18,7 @@
 It acts as a *digital guardian*, predicting burnout and stress early, tracking wellbeing, and guiding students with data-driven recommendations.  
 
 <p align="center">
-  <img src="https://github.com/sergie-o/heartbeat_sensei/blob/main/A548851C-524B-461A-A666-94F76904866D.png" alt="Banner" width="900"/>
+  <img src="https://github.com/sergie-o/campusguard_ai/blob/main/feature_postimage_linkedin.png" alt="Banner" width="900"/>
 </p>  
 
 
