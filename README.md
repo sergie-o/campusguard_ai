@@ -26,7 +26,9 @@ It acts as a *digital guardian*, predicting burnout and stress early, tracking w
 
 ## ❌ The Problem → ✅ The Solution  
 
-![CampusGuard AI Flow](sandbox:/mnt/data/69CECD9B-2ABF-4FEE-A4DA-0E368152B274.png?_chatgptios_conversationID=68d0ffe7-85b0-8329-8554-a59162ae2d89&_chatgptios_messageID=55ac749c-5989-4d9f-8e86-58dad0c19044)  
+<p align="center">
+  <img src="https://github.com/sergie-o/campusguard_ai/blob/main/campusguard_github.png" alt="Banner" width="900"/>
+</p>  
 
 - **Problem**: Student wellbeing is at risk due to **burnout, stress, financial pressure, and study-life imbalance**.  
 - **Solution**: CampusGuard AI integrates **Machine Learning + GenAI** to predict risks, assist with solutions, and improve wellbeing.  
