@@ -92,7 +92,7 @@ def calculate_burnout_score(exhaustion, cynicism, academic_efficacy):
 - 🗄️ **Database**: SQLite  
 - 📂 **Data Handling**: pandas, numpy  
 - 🔭 **Future Extensions**: Computer Vision for receipts, conversational AI coach  
-
+```
 ---
 
 ## 🌍 Why It Matters
@@ -100,7 +100,7 @@ def calculate_burnout_score(exhaustion, cynicism, academic_efficacy):
 - 💡 **Assist with Solutions** → Actionable, personalized guidance  
 - 🧘 **Improve Wellbeing** → Students maintain balance and success  
 
-
+```
 ---
 
 ## 📂 Repository Structure
