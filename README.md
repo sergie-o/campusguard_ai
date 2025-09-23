@@ -75,7 +75,7 @@ def calculate_burnout_score(exhaustion, cynicism, academic_efficacy):
     
     # Weighted composite score
     return (exhaustion_norm + cynicism_norm + efficacy_inverted) / 3 / 3
-
+```
 ## 🛠 Features
 - 🔮 **Burnout & Stress Prediction** (Logistic Regression + CatBoost)  
 - 🧠 **Wellbeing Journal + GenAI** → Students log reflections, classified into 5 states with personalized actions  
