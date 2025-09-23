@@ -82,7 +82,7 @@ def calculate_burnout_score(exhaustion, cynicism, academic_efficacy):
 - 💰 **Financial Tracker** → Log expenses + forecasting with Prophet  
 - ⚖️ **Study–Life Balance Advisor** → Tracks study hours vs. goals, merges with wellbeing and finance  
 - 📊 **Interactive Dashboard (Streamlit + Plotly)** → All insights in one place  
-
+```
 ---
 
 ## ⚙️ Tech Stack
