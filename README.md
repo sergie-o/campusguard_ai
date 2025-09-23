@@ -83,7 +83,7 @@ def calculate_burnout_score(exhaustion, cynicism, academic_efficacy):
 - ⚖️ **Study–Life Balance Advisor** → Tracks study hours vs. goals, merges with wellbeing and finance  
 - 📊 **Interactive Dashboard (Streamlit + Plotly)** → All insights in one place  
 ```
----
+
 ```
 ## ⚙️ Tech Stack
 - 🖥️ **Frontend & Dashboard**: Streamlit, Plotly  
@@ -93,7 +93,7 @@ def calculate_burnout_score(exhaustion, cynicism, academic_efficacy):
 - 📂 **Data Handling**: pandas, numpy  
 - 🔭 **Future Extensions**: Computer Vision for receipts, conversational AI coach  
 ```
----
+
 ```
 ## 🌍 Why It Matters
 - ✅ **Predict Risks Early** → Burnout and stress before they escalate  
@@ -101,7 +101,7 @@ def calculate_burnout_score(exhaustion, cynicism, academic_efficacy):
 - 🧘 **Improve Wellbeing** → Students maintain balance and success  
 
 ```
----
+
 
 ## 📂 Repository Structure
 
@@ -117,3 +117,4 @@ CampusGuard-AI/
 ├── requirements.txt            # Dependencies list
 ├── README.md                   # Project documentation
 └── LICENSE                     # License file
+```
