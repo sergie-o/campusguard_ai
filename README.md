@@ -17,7 +17,10 @@
 **CampusGuard AI** changes that.  
 It acts as a *digital guardian*, predicting burnout and stress early, tracking wellbeing, and guiding students with data-driven recommendations.  
 
-![CampusGuard AI Banner](sandbox:/mnt/data/4CDE6C15-0868-453C-9584-1A2BD0636791.png?_chatgptios_conversationID=68d0ffe7-85b0-8329-8554-a59162ae2d89&_chatgptios_messageID=55ac749c-5989-4d9f-8e86-58dad0c19044)  
+<p align="center">
+  <img src="https://github.com/sergie-o/heartbeat_sensei/blob/main/A548851C-524B-461A-A666-94F76904866D.png" alt="Banner" width="900"/>
+</p>  
+
 
 ---
 
