@@ -100,11 +100,6 @@ def calculate_burnout_score(exhaustion, cynicism, academic_efficacy):
 - 💡 **Assist with Solutions** → Actionable, personalized guidance  
 - 🧘 **Improve Wellbeing** → Students maintain balance and success  
 
----
-
-## 🙌 Acknowledgments
-Developed as part of my **Data Science & ML Bootcamp**.  
-Special thanks to mentors and teammates who helped shape the vision of AI as a **guardian for students**.
 
 ---
 
