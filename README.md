@@ -75,3 +75,50 @@ def calculate_burnout_score(exhaustion, cynicism, academic_efficacy):
     
     # Weighted composite score
     return (exhaustion_norm + cynicism_norm + efficacy_inverted) / 3 / 3
+
+## 🛠 Features
+- 🔮 **Burnout & Stress Prediction** (Logistic Regression + CatBoost)  
+- 🧠 **Wellbeing Journal + GenAI** → Students log reflections, classified into 5 states with personalized actions  
+- 💰 **Financial Tracker** → Log expenses + forecasting with Prophet  
+- ⚖️ **Study–Life Balance Advisor** → Tracks study hours vs. goals, merges with wellbeing and finance  
+- 📊 **Interactive Dashboard (Streamlit + Plotly)** → All insights in one place  
+
+---
+
+## ⚙️ Tech Stack
+- 🖥️ **Frontend & Dashboard**: Streamlit, Plotly  
+- 🤖 **Machine Learning**: scikit-learn, CatBoost, Prophet  
+- ✍️ **GenAI (NLP)**: Hugging Face / LangChain for journaling classification  
+- 🗄️ **Database**: SQLite  
+- 📂 **Data Handling**: pandas, numpy  
+- 🔭 **Future Extensions**: Computer Vision for receipts, conversational AI coach  
+
+---
+
+## 🌍 Why It Matters
+- ✅ **Predict Risks Early** → Burnout and stress before they escalate  
+- 💡 **Assist with Solutions** → Actionable, personalized guidance  
+- 🧘 **Improve Wellbeing** → Students maintain balance and success  
+
+---
+
+## 🙌 Acknowledgments
+Developed as part of my **Data Science & ML Bootcamp**.  
+Special thanks to mentors and teammates who helped shape the vision of AI as a **guardian for students**.
+
+---
+
+## 📂 Repository Structure
+
+```bash
+CampusGuard-AI/
+│
+├── assets/                     # Images, diagrams, and logos for README
+│   ├── campusguard_banner.png
+│   └── campusguard_flow.png
+│
+├── campus_guardai.ipynb        # Main Jupyter Notebook with full project
+│
+├── requirements.txt            # Dependencies list
+├── README.md                   # Project documentation
+└── LICENSE                     # License file
