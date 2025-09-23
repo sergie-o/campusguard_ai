@@ -84,7 +84,7 @@ def calculate_burnout_score(exhaustion, cynicism, academic_efficacy):
 - 📊 **Interactive Dashboard (Streamlit + Plotly)** → All insights in one place  
 ```
 ---
-
+```
 ## ⚙️ Tech Stack
 - 🖥️ **Frontend & Dashboard**: Streamlit, Plotly  
 - 🤖 **Machine Learning**: scikit-learn, CatBoost, Prophet  
@@ -94,7 +94,7 @@ def calculate_burnout_score(exhaustion, cynicism, academic_efficacy):
 - 🔭 **Future Extensions**: Computer Vision for receipts, conversational AI coach  
 ```
 ---
-
+```
 ## 🌍 Why It Matters
 - ✅ **Predict Risks Early** → Burnout and stress before they escalate  
 - 💡 **Assist with Solutions** → Actionable, personalized guidance  
